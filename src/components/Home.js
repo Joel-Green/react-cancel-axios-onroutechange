@@ -13,7 +13,7 @@ export default function Home() {
     getData();
 
     return () =>{
-      api.finishPendingRequests()
+      api.finishPendingRequests('route change')
     }
 
   },[location?.pathname])

@@ -3652,3 +3652,37 @@ Info 2538 [11:24:13.146] Different program with same set of files:: structureIsR
 Info 2539 [11:24:14.443] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
 Info 2540 [11:24:14.470] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 391 structureChanged: false Elapsed: 26.94120700098574ms
 Info 2541 [11:24:14.471] Different program with same set of files:: structureIsReused:: 2
+Info 2542 [11:28:32.997] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 2543 [11:28:33.053] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 392 structureChanged: false Elapsed: 56.490286000072956ms
+Info 2544 [11:28:33.053] Different program with same set of files:: structureIsReused:: 2
+Info 2545 [11:28:33.816] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 2546 [11:28:33.845] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 393 structureChanged: false Elapsed: 28.98106100037694ms
+Info 2547 [11:28:33.845] Different program with same set of files:: structureIsReused:: 2
+Info 2548 [11:28:34.601] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 2549 [11:28:34.634] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 394 structureChanged: false Elapsed: 32.81136699952185ms
+Info 2550 [11:28:34.634] Different program with same set of files:: structureIsReused:: 2
+Info 2551 [11:28:36.156] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 2552 [11:28:36.189] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 395 structureChanged: false Elapsed: 32.84202600084245ms
+Info 2553 [11:28:36.189] Different program with same set of files:: structureIsReused:: 2
+Info 2554 [11:28:38.180] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 2555 [11:28:38.211] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 396 structureChanged: false Elapsed: 31.1447430010885ms
+Info 2556 [11:28:38.211] Different program with same set of files:: structureIsReused:: 2
+Info 2557 [11:28:38.793] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 2558 [11:28:38.826] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 397 structureChanged: false Elapsed: 32.610084000974894ms
+Info 2559 [11:28:38.826] Different program with same set of files:: structureIsReused:: 2
+Info 2560 [11:28:40.544] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 2561 [11:28:40.574] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 398 structureChanged: false Elapsed: 29.873353000730276ms
+Info 2562 [11:28:40.574] Different program with same set of files:: structureIsReused:: 2
+Info 2563 [11:28:41.508] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 2564 [11:28:41.537] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 399 structureChanged: false Elapsed: 28.37274300120771ms
+Info 2565 [11:28:41.537] Different program with same set of files:: structureIsReused:: 2
+Info 2566 [11:28:41.810] getCompletionData: Get current token: 0.0312890000641346
+Info 2567 [11:28:41.810] getCompletionData: Is inside comment: 0.10490200109779835
+Info 2568 [11:28:41.811] getCompletionData: Get previous token 1: 0.061740001663565636
+Info 2569 [11:28:41.812] getCompletionsAtPosition: isCompletionListBlocker: 0.749397000297904
+Info 2570 [11:28:41.817] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 2571 [11:28:41.822] getCompletionData: Semantic work: 10.668535999953747
+Info 2572 [11:28:41.836] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 12.870422000065446
+Info 2573 [11:28:42.531] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 2574 [11:28:42.566] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 400 structureChanged: false Elapsed: 34.890751000493765ms
+Info 2575 [11:28:42.566] Different program with same set of files:: structureIsReused:: 2
