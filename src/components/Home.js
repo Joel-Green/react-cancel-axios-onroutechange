@@ -18,8 +18,16 @@ export default function Home() {
 
   },[location?.pathname])
 
-  function getData() {
-    getPosts().then(console.log).catch(console.error)
+  async function getData() {
+    try{
+
+    const res = await getPosts()
+    console.log(res)
+    }
+    catch(err)
+      {
+        console.error(err)
+      }
   }
 
 
