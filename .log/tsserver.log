@@ -1,0 +1,23 @@
+Info 0    [10:44:43.076] Starting TS Server
+Info 1    [10:44:43.077] Version: 4.2.3
+Info 2    [10:44:43.077] Arguments: /usr/bin/node /home/shaw/.npm-global/bin/tsserver --logFile /home/shaw/testDev/react/cancel_axios/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/a04e7ad7138b5fc823998dad8507577f/tscancellation*
+Info 3    [10:44:43.077] Platform: linux NodeVersion: 15 CaseSensitive: true
+Info 4    [10:44:43.077] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [10:44:43.095] Search path: /home/shaw/testDev/react/cancel_axios/src
+Info 6    [10:44:43.095] For info: /home/shaw/testDev/react/cancel_axios/src/App.js :: No config files found.
+Info 7    [10:44:43.100] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [10:44:45.461] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 2361.1893670000136ms
+Info 9    [10:44:45.461] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [10:44:45.462] 	Files (197)
+
+Info 11   [10:44:45.462] -----------------------------------------------
+Info 12   [10:44:45.485] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 13   [10:44:46.484] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true Elapsed: 998.2127210004255ms
+Info 14   [10:44:46.484] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 15   [10:44:46.484] 	Files (87)
+
+Info 16   [10:44:46.484] -----------------------------------------------
+Info 17   [10:45:27.087] Search path: /home/shaw/testDev/react/cancel_axios/src/components
+Info 18   [10:45:27.088] For info: /home/shaw/testDev/react/cancel_axios/src/components/Home.js :: No config files found.
+Info 19   [10:49:36.224] DirectoryWatcher:: Triggered with /home/shaw/testDev/react/cancel_axios/src/services :: WatchInfo: /home/shaw/testDev/react/cancel_axios/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 20   [10:49:36.224] Elapsed:: 0.45061600022017956ms DirectoryWatcher:: Triggered with /home/shaw/testDev/react/cancel_axios/src/services :: WatchInfo: /home/shaw/testDev/react/cancel_axios/src 0 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
