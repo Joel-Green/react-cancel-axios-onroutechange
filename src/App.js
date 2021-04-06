@@ -1,18 +1,26 @@
 import logo from './logo.svg';
 import './App.css';
+
+import React, {useEffect} from 'react';
+import api from './services/apiController';
+
+
 import {
   BrowserRouter as Router,
   Switch,
   Route,
   Link,
   useRouteMatch,
-  useParams
+  useParams,
+  useLocation
 } from "react-router-dom";
 
 import Home from './components/Home';
 import About from './components/About';
 
 function App() {
+
+
   return (
     <Router>
       <div>
